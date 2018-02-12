@@ -23,6 +23,6 @@ Instructions:
 
 
 Demo:
-[![demo](./images/demo.gif)]
+![demo](./images/demo.gif)
 
->[Check the game here](https://chandana-k.github.io/arcade-game/)
+>[Check the game here](https://chandana-k.github.io/chandana-frontend-nanodegree-arcade-game-master/)
