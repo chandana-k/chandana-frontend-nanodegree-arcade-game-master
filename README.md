@@ -1,5 +1,6 @@
-		Frontend-Nanodegree-Arcade-Game
+		<p style="text-align: center;">Frontend-Nanodegree-Arcade-Game
 		===============================
+		</p>
 
 Description:
 
