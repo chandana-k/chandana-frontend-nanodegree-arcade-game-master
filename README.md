@@ -25,4 +25,4 @@ Instructions:
 Demo:
 [![demo](./images/demo.gif)]
 
-> [Check the game here:](https://chandana-k.github.io/).
+>[Check the game here](https://chandana-k.github.io/arcade-game/)
